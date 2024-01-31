@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Qassem Shaban</h1>
 
-<h2 align="center">I'm Asp.Net Core developer</h2>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+🌱 I’m currently learning **WEB Development Full-Stack**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 <br>
@@ -21,6 +22,7 @@
 <br>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qassemshaban7&show_icons=true&theme=dark&locale=en&layout=compact" alt="qassemshaban7" /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=qassemshaban7&show_icons=true&theme=dark&locale=en" alt="qassemshaban7" /></p>
